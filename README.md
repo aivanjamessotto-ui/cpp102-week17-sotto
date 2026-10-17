@@ -24,7 +24,6 @@ This program monitors simulated device temperature readings. It stores the readi
 
 1. Open a terminal inside the Week17 folder.
 2. Type: `python device_monitor.py`
-   (On macOS or Linux, type: `python3 device_monitor.py`)
 
 ## Sample Output
 
@@ -55,7 +54,6 @@ I performed 13 tests (the 10 required tests plus 3 extra). 13 passed and 0 faile
 - Readings are lost when the program closes, because nothing is saved to a file.
 - Readings can only be added, not edited or deleted.
 - The 0 to 100 range and the 30 and 35 limits are for this classroom simulation only. They are not real device-safety standards.
-- (add your own)
 
 ## Reflection
 
